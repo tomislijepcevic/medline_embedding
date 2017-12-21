@@ -1,0 +1,11 @@
+term	support	DBOW	DMm	CNN
+Time Factors	166082	0.121	0.143	0.170
+Pregnancy	89480	0.580	0.612	0.846
+Amino Acid Sequence	82792	0.414	0.338	0.613
+Base Sequence	78955	0.374	0.295	0.537
+Kinetics	74987	0.259	0.232	0.411
+Dose-Response Relationship, Drug	65358	0.142	0.141	0.243
+Mutation	61849	0.259	0.265	0.486
+Signal Transduction	60022	0.313	0.266	0.526
+Sensitivity And Specificity	56584	0.205	0.201	0.354
+Protein Binding	41226	0.187	0.179	0.316

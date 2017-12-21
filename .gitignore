@@ -1,0 +1,14 @@
+.DS_Store
+*.pyc
+.ipynb_checkpoints
+
+.vscode/
+env/
+/models
+/data
+
+/medline/dataviz/data/
+/medline/dataviz/embeddings/
+/medline/dataviz/embeddings_2d/
+/medline/dataviz/visualizations/
+/medline/dataviz/old_embeddings/

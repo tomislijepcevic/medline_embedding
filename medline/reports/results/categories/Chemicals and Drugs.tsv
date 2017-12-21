@@ -1,0 +1,11 @@
+term	support	DBOW	DMm	CNN
+Rna, Messenger	64603	0.269	0.285	0.599
+Dna	41800	0.157	0.165	0.470
+Calcium	39009	0.347	0.386	0.703
+Recombinant Proteins	37157	0.129	0.130	0.414
+Anti-Bacterial Agents	35614	0.318	0.306	0.563
+Antineoplastic Agents	34832	0.224	0.211	0.437
+Biomarkers	34800	0.166	0.200	0.370
+Antibodies, Monoclonal	30265	0.256	0.240	0.632
+Bacterial Proteins	28067	0.255	0.214	0.500
+Transcription Factors	27325	0.210	0.174	0.463

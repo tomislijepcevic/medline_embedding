@@ -1,0 +1,11 @@
+term	support	DBOW	DMm	CNN
+Cells, Cultured	87497	0.243	0.251	0.493
+Cell Line	67073	0.175	0.168	0.392
+Brain	62719	0.209	0.232	0.500
+Liver	52759	0.294	0.333	0.653
+Cell Line, Tumor	41202	0.353	0.304	0.573
+Neurons	39709	0.279	0.294	0.564
+Kidney	30924	0.217	0.247	0.487
+Tumor Cells, Cultured	30714	0.160	0.154	0.393
+Lung	26243	0.208	0.271	0.520
+Cell Membrane	25618	0.134	0.156	0.337

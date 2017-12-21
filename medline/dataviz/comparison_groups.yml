@@ -1,0 +1,184 @@
+antigens, cd:
+- antigens, cd3
+- antigens, cd4
+- antigens, cd34
+- antigens, cd95
+
+antigens_parent:
+- antigens
+- allergens
+
+arteries:
+- carotid arteries
+- pulmonary artery
+- femoral artery
+- cerebral arteries
+- aorta
+
+brain:
+- central nervous system
+- brain stem
+- cerebral ventricles
+- blood-brain barrier
+
+brain diseases:
+- dementia
+- hydrocephalus
+- epilepsy
+
+cell death:
+- necrosis
+- apoptosis
+- autophagy
+
+colloids:
+- emulsions
+- aerosols
+- gels
+
+cytokines:
+- lymphocytes
+- chemokines
+- interferons
+- interleukins
+- lymphokines
+
+dna:
+- dna, bacterial
+- dna, neoplasm
+- dna, viral
+- dna, ribosomal
+
+endoscopy:
+- laparoscopy
+- arthroscopy
+- bronchoscopy
+
+enviroment pollutants:
+- soil pollutants
+- air pollutants
+- water pollutants
+
+enzyme inhibitors:
+- protease inhibitors
+- protein kinase inhibitors
+- cholinesterase inhibitors
+- cyclooxygenase inhibitors
+
+gases:
+- ammonia
+- nitrogen
+- hydrogen
+- carbon monoxide
+- carbon dioxide
+
+hormones:
+- androgens
+- estrogens
+- melatonin
+- glucocorticoids
+- thyroid hormones
+
+lung diseases:
+- pneumonia
+- tuberculosis
+- cystic fibrosis
+
+mental disorders:
+- anxiety disorders
+- substance-related disorders
+- sleep wake disorders
+- personality disorders
+- mood disorders
+
+nervous system:
+- nerve net
+- synapses
+- neural pathways
+- neuroglia
+
+pesticides:
+- herbicides
+- insecticides
+
+proteins:
+- nuclear proteins
+- glycoproteins
+- carrier proteins
+- blood proteins
+- nerve tissue proteins
+- dna-binding proteins
+- membrane proteins
+
+rna:
+- rna, bacterial
+- rna, neoplasm
+- rna, viral
+- rna, messenger
+- rna, transfer
+- rna, ribosomal
+
+spine:
+- lumbar vertebrae
+- thoracic vertebrae
+- cervical vertebrae
+
+wounds and injuries:
+- joint dislocations
+- fractures, bone
+- foreign bodies
+- spinal cord injuries
+- burns
+- athletic injuries
+- rupture
+- radiation injuries
+- wounds, nonpenetrating
+
+mucous membrane:
+- gastric mucosa
+- intestinal mucosa
+- mouth mucosa
+
+eukaryota:
+- animals
+- fungi
+- plants
+
+rats:
+- rats, wistar
+- rats, sprague-dawley
+- rats, long-evans
+
+face:
+- eye
+- mouth
+- nose
+
+sports:
+- swimming
+- running
+- walking
+
+cerebral cortex:
+- temporal lobe
+- parietal lobe
+- frontal lobe
+- hippocampus
+
+cell line, tumor:
+- hl-60 cells
+- pc12 cells
+- hela cells
+- jurkat cells
+- caco-2 cells
+- hep g2 cells
+
+ion channels:
+- sodium channels
+- calcium channels
+- potassium channels
+
+adult:
+- aged
+- middle aged
+- young adult

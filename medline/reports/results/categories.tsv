@@ -1,0 +1,16 @@
+category	DBOW	DMm	DMc	DMs	CNN
+Anatomy	0.140	0.152	0.052	0.095	0.464
+Organisms	0.174	0.171	0.068	0.110	0.571
+Diseases	0.158	0.170	0.066	0.117	0.540
+Chemicals and Drugs	0.133	0.148	0.049	0.092	0.488
+Analytical), Diagnostic and Therapeutic Techniques and Equipment	0.137	0.120	0.055	0.085	0.370
+Psychiatry and Psychology	0.131	0.132	0.060	0.091	0.397
+Biological Sciences	0.148	0.142	0.061	0.096	0.385
+Physical Sciences	0.098	0.089	0.039	0.061	0.280
+Anthropology), Education), Sociology and Social Phenomena	0.109	0.120	0.050	0.078	0.358
+Technology and Food and Beverages	0.148	0.142	0.049	0.092	0.431
+Humanities	0.189	0.156	0.065	0.118	0.400
+Information Science	0.137	0.122	0.062	0.083	0.331
+Persons	0.182	0.197	0.104	0.124	0.477
+Health Care	0.104	0.102	0.050	0.067	0.299
+Geographic Locations	0.084	0.082	0.029	0.036	0.542

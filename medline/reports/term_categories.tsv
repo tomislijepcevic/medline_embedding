@@ -1,0 +1,2891 @@
+term	Anatomy	Organisms	Diseases	Chemicals and Drugs	Analytical), Diagnostic and Therapeutic Techniques and Equipment	Psychiatry and Psychology	Biological Sciences	Physical Sciences	Anthropology), Education), Sociology and Social Phenomena	Technology and Food and Beverages	Humanities	Information Science	Persons	Health Care	Publication Characteristics	Geographic Locations	Check Tag
+3T3 Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Abdomen	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Abdominal Pain	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Abnormalities, Multiple	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Abscess	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Absorptiometry, Photon	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Absorption	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Accidental Falls	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Accidents, Traffic	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Acetaminophen	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Acetates	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Acetylation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Acetylcholine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Acetylcholinesterase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Acid Phosphatase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Acoustic Stimulation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Acquired Immunodeficiency Syndrome	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Acrylic Resins	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+Actins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Action Potentials	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Activities Of Daily Living	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0
+Acute Disease	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Acute Kidney Injury	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adaptation, Physiological	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Adaptation, Psychological	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Adaptor Proteins, Signal Transducing	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adenine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adenocarcinoma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adenoma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adenosine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adenosine Diphosphate	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adenosine Triphosphatases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adenosine Triphosphate	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adenoviridae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adenylyl Cyclases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adipocytes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adipose Tissue	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adjuvants, Immunologic	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Administration, Cutaneous	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Administration, Inhalation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Administration, Intranasal	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Administration, Oral	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Administration, Topical	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Adolescent	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+Adolescent Behavior	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Adrenal Cortex Hormones	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adrenal Gland Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adrenal Glands	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adrenalectomy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Adrenergic Alpha-Antagonists	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adrenergic Beta-Agonists	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adrenergic Beta-Antagonists	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adrenocorticotropic Hormone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adsorption	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Adult	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+Aerobiosis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Aerosols	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Affect	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Afferent Pathways	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Africa	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+African Americans	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+African Continental Ancestry Group	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Age Distribution	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+Age Factors	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Age Of Onset	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Aged	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+Aged, 80 And Over	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+Aggression	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Aging	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Agriculture	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Aids-Related Opportunistic Infections	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Air	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Air Pollutants	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Air Pollution	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Airway Obstruction	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alanine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alanine Transaminase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Albumins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Albuminuria	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alcohol Drinking	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Alcoholism	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Aldehydes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Aldosterone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Algorithms	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0
+Alkaline Phosphatase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alkaloids	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alleles	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Allergens	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alpha-Fetoproteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alternative Splicing	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Aluminum	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer Disease	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Ambulatory Care	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Amides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amino Acid Motifs	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Amino Acid Sequence	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0
+Amino Acid Substitution	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Amino Acids	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ammonia	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amniotic Fluid	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amputation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Amygdala	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amyloid	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amyloid Beta-Peptides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amyotrophic Lateral Sclerosis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Anaerobiosis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Anal Canal	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Analgesics	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Analgesics, Opioid	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Analysis Of Variance	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Anastomosis, Surgical	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Androgens	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Anemia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Anemia, Sickle Cell	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Anesthesia	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Anesthesia, General	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Anesthetics, Local	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Angina Pectoris	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Angiogenesis Inhibitors	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Angiography	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Angioplasty, Balloon	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Angioplasty, Balloon, Coronary	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Angiotensin Ii	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Angiotensin-Converting Enzyme Inhibitors	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Animal Feed	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+Animal Husbandry	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Animal Nutritional Physiological Phenomena	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Animals	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Animals, Genetically Modified	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Animals, Newborn	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Animals, Wild	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Anions	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Anisotropy	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Anthropometry	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Anti-Anxiety Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Anti-Arrhythmia Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Anti-Bacterial Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Anti-Hiv Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Anti-Infective Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Anti-Inflammatory Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Anti-Inflammatory Agents, Non-Steroidal	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antibiotics, Antineoplastic	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antibodies	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antibodies, Bacterial	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antibodies, Monoclonal	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antibodies, Monoclonal, Humanized	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antibodies, Protozoan	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antibodies, Viral	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antibody Formation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Antibody Specificity	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Anticoagulants	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Anticonvulsants	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antidepressive Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antifungal Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antigen Presentation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Antigen-Antibody Complex	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antigen-Antibody Reactions	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Antigen-Presenting Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antigens	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antigens, Bacterial	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antigens, Cd	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antigens, Cd3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antigens, Cd34	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antigens, Cd4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antigens, Cd95	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antigens, Differentiation	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antigens, Differentiation, T-Lymphocyte	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antigens, Neoplasm	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antigens, Protozoan	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antigens, Surface	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antigens, Viral	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antihypertensive Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antimalarials	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antimetabolites, Antineoplastic	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antineoplastic Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antineoplastic Agents, Hormonal	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antineoplastic Agents, Phytogenic	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antineoplastic Combined Chemotherapy Protocols	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Antioxidants	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antipsychotic Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antiretroviral Therapy, Highly Active	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Antirheumatic Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antitubercular Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Antiviral Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Anxiety	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Anxiety Disorders	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Aorta	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Aorta, Abdominal	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Aorta, Thoracic	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Aortic Aneurysm, Abdominal	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Aortic Valve	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Aortic Valve Stenosis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Apolipoproteins E	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Apoptosis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Apoptosis Regulatory Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arabidopsis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arabidopsis Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arachidonic Acid	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arachidonic Acids	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Area Under Curve	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0
+Arginine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arm	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arousal	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Arrhythmias, Cardiac	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arterial Occlusive Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arteries	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arteriosclerosis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arthritis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arthritis, Rheumatoid	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arthroplasty, Replacement, Hip	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Arthroplasty, Replacement, Knee	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Arthroscopy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Artifacts	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Artificial Intelligence	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0
+Ascomycota	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ascorbic Acid	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Asia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Asian Continental Ancestry Group	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Aspartate Aminotransferases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Aspartic Acid	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Aspirin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Asthma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Astrocytes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Astrocytoma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Atherosclerosis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Athletic Injuries	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Atp-Binding Cassette Transporters	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Atrial Fibrillation	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Atrial Natriuretic Factor	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Atrophy	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Atropine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Attention	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Attention Deficit Disorder With Hyperactivity	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Attitude	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Attitude Of Health Personnel	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+Attitude To Health	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+Auditory Perception	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Auditory Threshold	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Australia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Autistic Disorder	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Autoantibodies	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Autoantigens	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Autoimmune Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Autoimmunity	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Automation	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Automobile Driving	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Autonomic Nervous System	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Autophagy	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Autopsy	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0
+Autoradiography	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Avoidance Learning	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Awareness	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Axons	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+B-Lymphocytes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacillus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacillus Subtilis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteremia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacterial Adhesion	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Bacterial Infections	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacterial Outer Membrane Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacterial Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacterial Toxins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacterial Typing Techniques	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Bacterial Vaccines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteriological Techniques	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteriophages	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Base Composition	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Base Sequence	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0
+Basement Membrane	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Basic Helix-Loop-Helix Transcription Factors	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bayes Theorem	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Bcl-2-Associated X Protein	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Behavior	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Behavior Therapy	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Behavior, Animal	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Belgium	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Benzamides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Benzimidazoles	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Benzodiazepines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Beta Catenin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Beta-Galactosidase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Beta-Lactamases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Beverages	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+Bias (Epidemiology)	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Bicarbonates	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bile	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bile Acids And Salts	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bilirubin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Binding Sites	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Binding, Competitive	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Biocompatible Materials	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+Biodegradation, Environmental	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Biodiversity	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Biofilms	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Biological Assay	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Biological Availability	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Biological Evolution	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Biological Products	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Biological Transport	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Biological Transport, Active	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Biomarkers	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Biomarkers, Tumor	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Biomass	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Biomechanical Phenomena	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Biomedical Research	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Biometry	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Biophysical Phenomena	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Biophysics	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Biopsy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Biopsy, Needle	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Bioreactors	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+Biosensing Techniques	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Biotechnology	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+Biotin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Biotransformation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Biphenyl Compounds	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bipolar Disorder	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Birds	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Birth Weight	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Blastocyst	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bleomycin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Blood	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Blood Cell Count	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Blood Chemical Analysis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Blood Coagulation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Blood Donors	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Blood Flow Velocity	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Blood Gas Analysis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Blood Glucose	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Blood Loss, Surgical	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Blood Platelets	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Blood Pressure	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Blood Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Blood Transfusion	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Blood Vessel Prosthesis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Blood Vessel Prosthesis Implantation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Blood Vessels	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Blood Volume	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Blood-Brain Barrier	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Blotting, Northern	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Blotting, Southern	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Blotting, Western	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Body Composition	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Body Fluids	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Height	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Body Image	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0
+Body Patterning	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Body Size	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Body Temperature	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Body Temperature Regulation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Body Water	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Weight	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Bone And Bones	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bone Density	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Bone Marrow	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bone Marrow Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bone Marrow Transplantation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Bone Morphogenetic Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bone Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bone Plates	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Bone Resorption	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Bone Screws	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Bone Transplantation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Brachytherapy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Bradykinin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Brain	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Brain Chemistry	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Brain Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Brain Injuries	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Brain Ischemia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Brain Mapping	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Brain Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Brain Stem	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Brain-Derived Neurotrophic Factor	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Brazil	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Breast	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Breast Feeding	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Breast Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Breath Tests	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Breeding	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Bromodeoxyuridine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bronchi	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bronchoalveolar Lavage Fluid	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Bronchodilator Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bronchoscopy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Buffers	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Burns	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+C-Reactive Protein	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Caco-2 Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cadaver	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cadherins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cadmium	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Caenorhabditis Elegans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Caffeine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Calcimycin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Calcinosis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Calcitriol	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Calcium	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Calcium Channel Blockers	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Calcium Channels	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Calcium Signaling	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Calcium-Binding Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Calcium-Calmodulin-Dependent Protein Kinases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Calibration	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+California	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Calmodulin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Calorimetry, Differential Scanning	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Canada	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Candida	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candida Albicans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Candidiasis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Capillaries	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Capillary Permeability	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Capsid	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Capsid Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carbachol	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carbohydrate Metabolism	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Carbohydrate Sequence	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0
+Carbohydrates	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carbon	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carbon Dioxide	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carbon Isotopes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carbon Monoxide	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carbon Radioisotopes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carcinoembryonic Antigen	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carcinogens	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carcinoma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carcinoma In Situ	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carcinoma, Ductal, Breast	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carcinoma, Hepatocellular	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carcinoma, Non-Small-Cell Lung	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carcinoma, Papillary	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carcinoma, Renal Cell	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carcinoma, Small Cell	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carcinoma, Squamous Cell	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carcinoma, Transitional Cell	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiac Catheterization	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiac Output	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Cardiac Pacing, Artificial	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiac Surgical Procedures	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiomegaly	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiomyopathies	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiomyopathy, Dilated	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiopulmonary Bypass	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiotonic Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular System	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Caregivers	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+Carotenoids	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid Arteries	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid Artery Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid Artery, Internal	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid Stenosis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carrier Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carrier State	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Cartilage	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cartilage, Articular	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Case-Control Studies	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Caspase 3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Caspases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cat Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Catalase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Catalysis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Catalytic Domain	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cataract	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cataract Extraction	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Catecholamines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Catheter Ablation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Catheterization	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Catheters, Indwelling	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Cations	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cations, Divalent	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cats	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Cattle	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Cattle Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Causality	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Cause Of Death	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Cd4 Lymphocyte Count	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Cd4-Positive T-Lymphocytes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cd8-Positive T-Lymphocytes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cell Adhesion	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cell Adhesion Molecules	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cell Aging	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cell Communication	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cell Count	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Cell Culture Techniques	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Cell Cycle	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cell Cycle Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cell Death	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cell Differentiation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cell Division	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cell Fractionation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Cell Hypoxia	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cell Line	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cell Line, Transformed	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cell Line, Tumor	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cell Lineage	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cell Membrane	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cell Membrane Permeability	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cell Movement	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cell Nucleus	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cell Polarity	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cell Proliferation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cell Separation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Cell Size	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cell Survival	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cell Transformation, Neoplastic	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cell Transformation, Viral	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cell Wall	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cell-Free System	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cells, Cultured	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cellulose	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+Central Nervous System	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Central Nervous System Stimulants	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Centrifugation, Density Gradient	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Cephalometry	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Cephalosporins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cercopithecus Aethiops	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cerebellum	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cerebral Angiography	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Cerebral Arteries	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cerebral Cortex	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cerebral Hemorrhage	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cerebral Infarction	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cerebral Palsy	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cerebral Ventricles	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cerebrovascular Circulation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cerebrovascular Disorders	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cervical Vertebrae	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cervix Uteri	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cesarean Section	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Chelating Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chemical And Drug Induced Liver Injury	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chemical Phenomena	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Chemistry	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Chemistry, Pharmaceutical	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Chemistry, Physical	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Chemokine Ccl2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chemokines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chemotaxis	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Chemotaxis, Leukocyte	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Chemotherapy, Adjuvant	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Chi-Square Distribution	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0
+Chick Embryo	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Chickens	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Child	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+Child Abuse	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Child Behavior	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Child Behavior Disorders	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Child Development	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Child, Preschool	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+China	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Chitosan	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chlamydia Infections	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chlorides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chlorophyll	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chloroplasts	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cho Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Choice Behavior	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Cholelithiasis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cholesterol	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cholesterol, Hdl	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cholesterol, Ldl	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Choline	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cholinesterase Inhibitors	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chondrocytes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chorionic Gonadotropin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chromatin	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+Chromatography	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Chromatography, Affinity	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Chromatography, Gas	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Chromatography, Gel	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Chromatography, High Pressure Liquid	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Chromatography, Ion Exchange	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Chromatography, Liquid	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Chromatography, Thin Layer	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Chromosome Aberrations	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Chromosome Banding	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Chromosome Deletion	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Chromosome Disorders	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chromosome Mapping	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Chromosomes	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Chronic Disease	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cicatrix	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Circadian Rhythm	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Circular Dichroism	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Cisplatin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cities	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0
+Cleft Palate	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Climate	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Clinical Competence	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+Clinical Protocols	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Clinical Trials As Topic	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Clone Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Clonidine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cloning, Molecular	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Cluster Analysis	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Coated Materials, Biocompatible	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+Cobalt	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cocaine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cochlea	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Coculture Techniques	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Codon	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cognition	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Cognition Disorders	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Cognitive Therapy	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Cohort Studies	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Cold Temperature	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Colectomy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Colforsin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Colitis, Ulcerative	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Collagen	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Collagen Type I	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Colloids	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Colon	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Colonic Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Colonoscopy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Colony Count, Microbial	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Colony-Forming Units Assay	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Color	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Color Perception	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Colorectal Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Colorimetry	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Coloring Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Combined Modality Therapy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Communication	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+Community Health Services	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Comorbidity	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Complement System Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Composite Resins	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+Computational Biology	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+Computer Graphics	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Computer Simulation	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Computer-Aided Design	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Computers	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Concanavalin A	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Conditioning, Classical	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Conditioning, Operant	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Confidence Intervals	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Congenital Abnormalities	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Connective Tissue	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Conservation Of Natural Resources	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0
+Conserved Sequence	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Constriction, Pathologic	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Consumer Behavior	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Continental Population Groups	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Contrast Media	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cooperative Behavior	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Copper	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cornea	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Coronary Angiography	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Coronary Artery Bypass	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Coronary Artery Disease	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Coronary Circulation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Coronary Disease	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Coronary Vessels	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Corpus Striatum	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Corticosterone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cos Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cost Of Illness	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Cost-Benefit Analysis	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Costs And Cost Analysis	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Counseling	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+Craniocerebral Trauma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Creatine Kinase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Creatinine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cricetinae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cricetulus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Critical Care	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Critical Illness	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Crohn Disease	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cross Infection	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cross Reactions	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cross-Cultural Comparison	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Cross-Linking Reagents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cross-Over Studies	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Cross-Sectional Studies	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Crosses, Genetic	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Cryopreservation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Crystallization	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Crystallography, X-Ray	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Cues	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Cultural Characteristics	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Culture	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Culture Media	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+Culture Media, Conditioned	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+Culture Techniques	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Curriculum	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Cyanobacteria	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cyclic Amp	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cyclic Amp-Dependent Protein Kinases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cyclic Gmp	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cyclin-Dependent Kinase Inhibitor P21	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cyclins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cyclization	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Cycloheximide	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cyclooxygenase 2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cyclooxygenase Inhibitors	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cyclophosphamide	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cyclosporine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cysteine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cysteine Endopeptidases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cystic Fibrosis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cysts	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cytochrome P-450 Enzyme System	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cytokines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cytomegalovirus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cytomegalovirus Infections	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cytoplasm	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cytoplasmic Granules	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cytoskeletal Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cytoskeleton	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cytosol	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cytotoxicity, Immunologic	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Dactinomycin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Data Collection	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Data Interpretation, Statistical	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Databases, Factual	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Databases, Genetic	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Databases, Protein	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Deafness	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Debridement	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Decision Making	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Decision Support Techniques	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0
+Decompression, Surgical	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Deglutition Disorders	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Delayed-Action Preparations	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+Delivery Of Health Care	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Delivery, Obstetric	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Dementia	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Demography	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+Dendrites	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dendritic Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Denmark	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Dental Bonding	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Dental Caries	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dental Enamel	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dental Implantation, Endosseous	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Dental Implants	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0
+Dental Restoration, Permanent	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Dental Stress Analysis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Dentin	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Deoxycytidine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Depression	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Depression, Chemical	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Depressive Disorder	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Depressive Disorder, Major	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Dermatitis, Atopic	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Detergents	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+Developing Countries	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Developmental Disabilities	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Dexamethasone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dextrans	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diabetes Complications	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diabetes Mellitus	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diabetes Mellitus, Experimental	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Diabetes Mellitus, Type 1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diabetes Mellitus, Type 2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diabetic Angiopathies	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diabetic Nephropathies	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diabetic Retinopathy	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnosis, Computer-Assisted	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0
+Diagnosis, Differential	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnostic And Statistical Manual Of Mental Disorders	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Diagnostic Errors	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Diagnostic Imaging	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Diaphragm	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diarrhea	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diastole	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Diazepam	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diet	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Dietary Carbohydrates	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0
+Dietary Fats	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0
+Dietary Fiber	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+Dietary Proteins	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0
+Dietary Supplements	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+Diffusion	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Diffusion Magnetic Resonance Imaging	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Digestion	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Digestive System	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dimerization	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Dimethyl Sulfoxide	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dinoprostone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dipeptides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diphosphonates	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Disability Evaluation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Disabled Persons	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Discrimination (Psychology)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Discrimination Learning	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Disease Management	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Disease Models, Animal	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Disease Outbreaks	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Disease Progression	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Disease Susceptibility	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Disease-Free Survival	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Disulfides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diterpenes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diuretics	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dna	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dna Damage	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Dna Fingerprinting	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0
+Dna Fragmentation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Dna Methylation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Dna Mutational Analysis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Dna Primers	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dna Probes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dna Repair	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Dna Replication	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Dna Restriction Enzymes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dna Transposable Elements	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+Dna, Bacterial	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dna, Complementary	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dna, Fungal	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dna, Mitochondrial	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dna, Neoplasm	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dna, Plant	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dna, Protozoan	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dna, Recombinant	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dna, Ribosomal	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dna, Single-Stranded	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+Dna, Viral	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dna-Binding Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dna-Directed Rna Polymerases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dog Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dogs	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Dominance, Cerebral	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Dopamine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dose-Response Relationship, Drug	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Dose-Response Relationship, Immunologic	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Dose-Response Relationship, Radiation	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0
+Double-Blind Method	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Down Syndrome	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Down-Regulation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Doxorubicin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Drainage	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Drinking	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Drosophila	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Drosophila Melanogaster	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Drosophila Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Drug Administration Schedule	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Drug Carriers	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+Drug Combinations	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Drug Compounding	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Drug Delivery Systems	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Drug Design	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0
+Drug Discovery	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0
+Drug Evaluation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Drug Evaluation, Preclinical	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Drug Interactions	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Drug Monitoring	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Drug Prescriptions	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Drug Resistance	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Drug Resistance, Bacterial	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Drug Resistance, Microbial	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Drug Resistance, Multiple	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Drug Resistance, Multiple, Bacterial	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Drug Resistance, Neoplasm	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Drug Screening Assays, Antitumor	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Drug Stability	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Drug Synergism	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Drug Therapy, Combination	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Drug Tolerance	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Drug Utilization	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Drug-Related Side Effects And Adverse Reactions	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Drugs, Chinese Herbal	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Duodenal Ulcer	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Duodenum	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Durapatite	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dust	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dyspnea	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Early Detection Of Cancer	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Early Diagnosis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Eating	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Echocardiography	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Echocardiography, Doppler	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Echocardiography, Transesophageal	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Ecology	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Ecosystem	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Edema	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Edetic Acid	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Education, Medical	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Education, Medical, Undergraduate	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Educational Measurement	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Educational Status	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Efficiency, Organizational	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Elasticity	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Electric Conductivity	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Electric Impedance	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Electric Stimulation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Electric Stimulation Therapy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Electrocardiography	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Electrochemistry	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Electrodes	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Electrodes, Implanted	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Electroencephalography	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Electrolytes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Electromagnetic Fields	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Electromyography	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Electron Spin Resonance Spectroscopy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Electron Transport	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Electron Transport Complex Iv	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Electrons	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Electrophoresis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Electrophoresis, Agar Gel	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Electrophoresis, Capillary	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Electrophoresis, Gel, Pulsed-Field	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Electrophoresis, Gel, Two-Dimensional	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Electrophoresis, Polyacrylamide Gel	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Electrophysiology	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Embolization, Therapeutic	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Embryo Transfer	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Embryo, Mammalian	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Embryo, Nonmammalian	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Embryonic And Fetal Development	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Embryonic Development	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Embryonic Stem Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Emergencies	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Emergency Medical Services	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Emergency Service, Hospital	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Emigration And Immigration	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+Emotions	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Employment	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Emulsions	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Endocytosis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Endometrial Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Endometriosis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Endometrium	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Endopeptidases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Endoplasmic Reticulum	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Endoscopy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Endoscopy, Gastrointestinal	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Endothelial Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Endothelin-1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Endothelium	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Endothelium, Vascular	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Endotoxins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Energy Intake	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Energy Metabolism	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Energy Transfer	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+England	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Enhancer Elements, Genetic	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Enteral Nutrition	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Enterobacteriaceae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enterotoxins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Environment	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Environmental Exposure	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Environmental Monitoring	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Environmental Pollutants	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enzyme Activation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Enzyme Induction	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Enzyme Inhibitors	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enzyme Stability	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Enzyme-Linked Immunosorbent Assay	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Enzymes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Eosinophils	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Epidemiologic Methods	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Epidermal Growth Factor	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Epidermis	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Epigenesis, Genetic	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Epilepsy	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Epinephrine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Epithelial Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Epithelium	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Epitopes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Equipment Design	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Equipment Failure	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Equipment Failure Analysis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Erectile Dysfunction	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Erythrocyte Membrane	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Erythrocytes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Erythropoietin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Escherichia Coli	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Escherichia Coli Infections	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Escherichia Coli Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Esophageal Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Esophagus	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Esters	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Estradiol	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Estrogen Replacement Therapy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Estrogens	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Estrus	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Ethanol	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ethics, Medical	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0
+Ethnic Groups	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+Etoposide	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Eukaryota	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Europe	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+European Continental Ancestry Group	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Evaluation Studies As Topic	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Evidence-Based Medicine	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Evoked Potentials	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Evoked Potentials, Auditory	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Evoked Potentials, Somatosensory	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Evoked Potentials, Visual	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Evolution, Molecular	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Excitatory Amino Acid Antagonists	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Excitatory Postsynaptic Potentials	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Exercise	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0
+Exercise Test	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Exercise Therapy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Exons	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Exploratory Behavior	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Extracellular Matrix	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Extracellular Matrix Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Extracellular Signal-Regulated Map Kinases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Extracellular Space	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Extremities	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Eye	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Eye Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Eye Movements	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Eye Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fabaceae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Face	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Factor Analysis, Statistical	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+False Negative Reactions	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+False Positive Reactions	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Family	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0
+Family Characteristics	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0
+Family Health	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Family Practice	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Fasting	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Fatal Outcome	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Fatigue	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fatty Acids	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fatty Acids, Nonesterified	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fatty Acids, Unsaturated	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fatty Liver	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fear	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Feasibility Studies	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Feces	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Feedback	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Feeding Behavior	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Female	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Femoral Artery	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Femur	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fermentation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Ferric Compounds	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ferritins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fertility	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Fertilization In Vitro	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Fetal Blood	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fetal Death	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fetal Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fetal Growth Retardation	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fetus	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fever	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fibrinogen	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fibrinolysis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Fibrinolytic Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fibroblast Growth Factor 2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fibroblasts	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fibronectins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fibrosis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Filtration	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Fingers	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Finite Element Analysis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Finland	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Fish Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fishes	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Flavonoids	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Flow Cytometry	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Flowers	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fluid Therapy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Fluorescein Angiography	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Fluoresceins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fluorescence	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Fluorescent Antibody Technique	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Fluorescent Antibody Technique, Indirect	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Fluorescent Dyes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fluorides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fluorodeoxyglucose F18	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fluoroscopy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Fluorouracil	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Focus Groups	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Folic Acid	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Follicle Stimulating Hormone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Follow-Up Studies	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Food	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+Food Analysis	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+Food Contamination	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0
+Food Handling	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Food Microbiology	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0
+Foot	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Forced Expiratory Volume	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Forearm	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Forecasting	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Foreign Bodies	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Forkhead Transcription Factors	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Formaldehyde	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fourier Analysis	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0
+Fracture Fixation, Internal	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Fractures, Bone	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+France	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Free Radical Scavengers	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free Radicals	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Freezing	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Fresh Water	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Frontal Lobe	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fruit	1	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+Functional Laterality	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Fungal Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fungi	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gait	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Gamma Rays	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gamma-Aminobutyric Acid	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ganglia, Spinal	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gas Chromatography-Mass Spectrometry	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Gases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gastrectomy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Gastric Mucosa	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gastroesophageal Reflux	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gastrointestinal Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gastrointestinal Hemorrhage	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gastrointestinal Motility	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gastrointestinal Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gastrointestinal Tract	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gels	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gender Identity	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Gene Amplification	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gene Deletion	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gene Dosage	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gene Expression	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gene Expression Profiling	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Gene Expression Regulation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gene Expression Regulation, Bacterial	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gene Expression Regulation, Developmental	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gene Expression Regulation, Enzymologic	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gene Expression Regulation, Fungal	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gene Expression Regulation, Neoplastic	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gene Expression Regulation, Plant	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gene Expression Regulation, Viral	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gene Frequency	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gene Knockdown Techniques	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Gene Library	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gene Regulatory Networks	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gene Silencing	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gene Transfer Techniques	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+General Surgery	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Genes	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genes, Bacterial	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genes, Dominant	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genes, Fungal	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genes, P53	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genes, Plant	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genes, Ras	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genes, Recessive	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genes, Reporter	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genes, Tumor Suppressor	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genes, Viral	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genetic Association Studies	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Genetic Complementation Test	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Genetic Engineering	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Genetic Linkage	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genetic Markers	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genetic Predisposition To Disease	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genetic Testing	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Genetic Therapy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Genetic Variation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genetic Vectors	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genetics, Population	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Genome	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genome, Bacterial	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genome, Human	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genome, Plant	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genome, Viral	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Genome-Wide Association Study	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Genomics	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Genotype	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gentamicins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Geography	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Geologic Sediments	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Geriatric Assessment	0	0	0	0	1	0	0	0	1	0	0	1	0	1	0	0	0
+Germany	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Gestational Age	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Glass	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Glaucoma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glial Fibrillary Acidic Protein	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glioblastoma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glioma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Global Health	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+Glomerular Filtration Rate	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Glomerulonephritis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glucagon	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glucocorticoids	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glucose	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glucose Tolerance Test	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Glutamates	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glutamic Acid	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glutamine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glutathione	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glutathione Peroxidase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glutathione Transferase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycerol	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycogen	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycolysis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Glycoproteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycosaminoglycans	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycoside Hydrolases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycosides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycosylation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Goats	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gold	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Golgi Apparatus	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gonadal Steroid Hormones	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gonadotropin-Releasing Hormone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Graft Rejection	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Graft Survival	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Graft Vs Host Disease	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gram-Negative Bacteria	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gram-Positive Bacteria	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Granulocyte Colony-Stimulating Factor	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Granulocyte-Macrophage Colony-Stimulating Factor	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Granulocytes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Granuloma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Greece	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Green Fluorescent Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Growth	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Growth Disorders	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Growth Hormone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Growth Substances	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gtp-Binding Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Guanidines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Guanine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Guanosine Triphosphate	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Guideline Adherence	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Guidelines As Topic	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Guinea Pigs	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Hair	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Half-Life	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Haloperidol	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hand	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hand Strength	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Haplorhini	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Haplotypes	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Head	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Head And Neck Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Headache	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Health Behavior	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Health Care Costs	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Health Care Surveys	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Health Education	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+Health Knowledge, Attitudes, Practice	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+Health Personnel	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+Health Policy	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+Health Promotion	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Health Services Accessibility	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Health Services Needs And Demand	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Health Services Research	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+Health Status	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+Health Status Indicators	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Health Surveys	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Hearing Loss, Sensorineural	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heart	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heart Arrest	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heart Atria	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heart Conduction System	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heart Defects, Congenital	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heart Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heart Failure	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heart Rate	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Heart Transplantation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Heart Valve Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heart Valve Prosthesis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Heart Valve Prosthesis Implantation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Heart Ventricles	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heat-Shock Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hek293 Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hela Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helicobacter Infections	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Helicobacter Pylori	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hematocrit	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Hematoma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hematopoiesis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Hematopoietic Stem Cell Transplantation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Hematopoietic Stem Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heme	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hemodynamics	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Hemoglobin A, Glycosylated	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hemoglobins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hemolysis	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Hemorrhage	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hep G2 Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hepacivirus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heparin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hepatectomy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Hepatitis B	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hepatitis B Surface Antigens	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hepatitis B Virus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hepatitis C	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hepatitis C, Chronic	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hepatocytes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Herbicides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Herpesvirus 4, Human	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Heterozygote	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+High-Throughput Nucleotide Sequencing	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Hindlimb	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip Joint	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip Prosthesis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Hippocampus	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hispanic Americans	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Histamine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Histidine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Histocompatibility Antigens Class I	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Histocompatibility Antigens Class Ii	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Histocytochemistry	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0
+Histones	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+History, 19Th Century	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+History, 20Th Century	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+History, 21St Century	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+Hiv	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hiv Infections	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hiv Seropositivity	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hiv-1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hl-60 Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hla Antigens	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hla-Dr Antigens	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hodgkin Disease	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Home Care Services	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Homeodomain Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Homeostasis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Homocysteine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Homozygote	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Hong Kong	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Hormones	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Horse Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Horseradish Peroxidase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Horses	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hospital Mortality	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Hospitalization	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Hospitals	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Hospitals, Teaching	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Hospitals, University	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Host-Parasite Interactions	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Host-Pathogen Interactions	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Hot Temperature	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Hsp70 Heat-Shock Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Human Growth Hormone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Humans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Humidity	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Hyaluronic Acid	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hybridomas	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hydrocephalus	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hydrocortisone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hydrogen	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hydrogen Bonding	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Hydrogen Peroxide	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hydrogen-Ion Concentration	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Hydrolysis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Hydrophobic And Hydrophilic Interactions	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Hydroxymethylglutaryl-Coa Reductase Inhibitors	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hypercholesterolemia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hyperglycemia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hyperlipidemias	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hyperplasia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hypersensitivity	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hypersensitivity, Delayed	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hypertension	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hypertension, Pulmonary	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hyperthermia, Induced	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Hypertrophy	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hypertrophy, Left Ventricular	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hypnotics And Sedatives	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hypoglycemia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hypoglycemic Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hypolipidemic Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hypotension	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hypothalamo-Hypophyseal System	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hypothalamus	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hypothyroidism	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hypoxia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hypoxia-Inducible Factor 1, Alpha Subunit	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hysterectomy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Ileum	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Image Enhancement	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0
+Image Interpretation, Computer-Assisted	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0
+Image Processing, Computer-Assisted	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Imaging, Three-Dimensional	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0
+Imidazoles	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Immune Sera	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Immune System	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Immune Tolerance	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Immunity	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Immunity, Cellular	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Immunity, Innate	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Immunization	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Immunization, Passive	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Immunoassay	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Immunoblotting	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Immunocompromised Host	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Immunodiffusion	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Immunoenzyme Techniques	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Immunoglobulin A	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Immunoglobulin E	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Immunoglobulin G	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Immunoglobulin M	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Immunoglobulins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Immunohistochemistry	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0
+Immunologic Factors	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Immunologic Memory	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Immunophenotyping	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Immunoprecipitation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Immunosuppression	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Immunosuppressive Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Immunotherapy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+In Situ Hybridization	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+In Situ Hybridization, Fluorescence	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+In Situ Nick-End Labeling	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+In Vitro Techniques	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Incidence	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Incisor	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Income	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+India	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Indicators And Reagents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Indoles	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Indomethacin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Industrial Waste	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Industry	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Infant	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+Infant Mortality	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Infant, Low Birth Weight	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Infant, Newborn	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+Infant, Newborn, Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Infant, Premature	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Infant, Premature, Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Infection	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Infection Control	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Infertility, Female	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Infertility, Male	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Inflammation	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Inflammation Mediators	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Inflammatory Bowel Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Influenza A Virus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Influenza A Virus, H1N1 Subtype	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Influenza Vaccines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Influenza, Human	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Information Storage And Retrieval	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Informed Consent	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+Infusions, Intravenous	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Infusions, Parenteral	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Inhibitory Concentration 50	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Injections	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Injections, Intramuscular	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Injections, Intraperitoneal	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Injections, Intravenous	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Injections, Intraventricular	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Injections, Subcutaneous	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Injury Severity Score	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Inpatients	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Insect Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insect Vectors	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Insecticides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insects	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insulin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insulin Resistance	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Insulin-Like Growth Factor I	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insurance, Health	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Integrins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Intellectual Disability	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Intelligence	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Intensive Care Units	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Intercellular Adhesion Molecule-1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Intercellular Signaling Peptides And Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Interferon Type I	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Interferon-Alpha	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Interferon-Gamma	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Interferons	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Interleukin-1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Interleukin-10	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Interleukin-12	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Interleukin-1Beta	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Interleukin-2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Interleukin-4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Interleukin-6	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Interleukin-8	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Interleukins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Internal-External Control	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+International Cooperation	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Internet	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Internship And Residency	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Interpersonal Relations	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Interprofessional Relations	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Intervertebral Disc Displacement	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Interview, Psychological	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Interviews As Topic	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Intestinal Absorption	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Intestinal Mucosa	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Intestinal Obstruction	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Intestine, Small	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Intestines	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Intracellular Membranes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Intracellular Signaling Peptides And Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Intracranial Aneurysm	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Intraocular Pressure	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Intraoperative Care	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Intraoperative Complications	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Intraoperative Period	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Introns	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Intubation, Intratracheal	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Iodine Radioisotopes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ion Channel Gating	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Ion Channels	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ions	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Iran	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Iron	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ischemia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ischemic Attack, Transient	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Islets Of Langerhans	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Isoelectric Focusing	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Isoenzymes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Isomerism	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Isometric Contraction	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Isoproterenol	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Isoquinolines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Isotope Labeling	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Israel	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Italy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Japan	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Jejunum	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Jnk Mitogen-Activated Protein Kinases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Job Satisfaction	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Joint Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Joint Dislocations	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Joint Instability	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Judgment	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Jurkat Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kaplan-Meier Estimate	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Karyotyping	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Keratinocytes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Keratins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ki-67 Antigen	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kidney	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kidney Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kidney Failure, Chronic	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kidney Function Tests	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Kidney Glomerulus	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kidney Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kidney Transplantation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Kidney Tubules	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kidney Tubules, Proximal	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Killer Cells, Natural	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kinetics	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Knee Injuries	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Knee Joint	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Korea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+L-Lactate Dehydrogenase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Labor, Obstetric	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Lactates	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lactation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Lactic Acid	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lactobacillus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lactones	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Laminin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Language	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+Laparoscopy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Laparotomy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Larva	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Laryngeal Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Laser Therapy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Lasers	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Lead	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Leadership	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Learning	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Least-Squares Analysis	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Lectins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Leg	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Length Of Stay	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Lens, Crystalline	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Leptin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lethal Dose 50	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Leucine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Leukemia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Leukemia, Lymphocytic, Chronic, B-Cell	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Leukemia, Myelogenous, Chronic, Bcr-Abl Positive	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Leukemia, Myeloid	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Leukemia, Myeloid, Acute	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Leukocyte Count	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Leukocytes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Leukocytes, Mononuclear	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Levodopa	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lidocaine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Life Change Events	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Life Style	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Ligands	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ligation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Light	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Likelihood Functions	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Limit Of Detection	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Linear Models	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Linkage Disequilibrium	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Lipase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lipid Bilayers	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+Lipid Metabolism	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Lipid Peroxidation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Lipids	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lipopolysaccharides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lipoproteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lipoproteins, Hdl	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lipoproteins, Ldl	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Liposomes	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+Lithium	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Liver	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Liver Cirrhosis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Liver Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Liver Function Tests	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Liver Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Liver Neoplasms, Experimental	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Liver Transplantation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Locomotion	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Logistic Models	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Long-Term Care	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Longevity	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Longitudinal Studies	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Low Back Pain	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Luciferases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lumbar Vertebrae	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Luminescent Measurements	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Luminescent Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lung	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lung Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lung Diseases, Obstructive	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lung Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lupus Erythematosus, Systemic	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Luteinizing Hormone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lymph Node Excision	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Lymph Nodes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lymphatic Metastasis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lymphocyte Activation	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Lymphocyte Count	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Lymphocytes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lymphokines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lymphoma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lymphoma, B-Cell	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lymphoma, Non-Hodgkin	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lysine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lysosomes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Macaca	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Macaca Fascicularis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Macaca Mulatta	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Macromolecular Substances	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Macrophage Activation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Macrophages	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Magnesium	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Magnetic Resonance Angiography	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Magnetic Resonance Imaging	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Magnetic Resonance Spectroscopy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Magnetics	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Malaria	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Malaria, Falciparum	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Male	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Malondialdehyde	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mammals	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mammary Glands, Animal	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mammary Neoplasms, Experimental	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Mammography	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Mandible	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Manganese	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Manometry	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Map Kinase Signaling System	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Markov Chains	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0
+Marriage	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0
+Mass Screening	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Mass Spectrometry	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Mast Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mastectomy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Materials Testing	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Maternal Age	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Maternal-Fetal Exchange	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Mathematics	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Matrix Metalloproteinase 2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Matrix Metalloproteinase 9	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Maxilla	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Maze Learning	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Meat	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+Medicaid	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Medical Audit	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Medical Records	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Medical Records Systems, Computerized	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Medicare	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Medulla Oblongata	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Meiosis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Melanoma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Melatonin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Membrane Glycoproteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Membrane Lipids	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Membrane Potentials	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Membrane Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Membrane Transport Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Membranes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Membranes, Artificial	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+Memory	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Memory Disorders	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Memory, Short-Term	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Meningeal Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Meningioma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Menopause	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Menstrual Cycle	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Mental Disorders	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Mental Health	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+Mental Health Services	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+Mental Recall	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Mercury	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mesencephalon	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mesenchymal Stromal Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mesocricetus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mesoderm	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Metabolic Clearance Rate	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Metabolic Networks And Pathways	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Metabolic Syndrome X	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Metal Nanoparticles	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Metalloendopeptidases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Metals	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Metals, Heavy	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Methacrylates	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Methane	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Methanol	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Methionine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Methods	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Methotrexate	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Methylation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Methylprednisolone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mexico	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Mice	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Mice, Inbred Balb C	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mice, Inbred C3H	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mice, Inbred C57Bl	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mice, Inbred Cba	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mice, Inbred Dba	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mice, Inbred Icr	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mice, Inbred Strains	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mice, Knockout	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mice, Mutant Strains	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mice, Nude	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mice, Scid	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mice, Transgenic	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Micelles	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Microbial Sensitivity Tests	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Microcirculation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Microdialysis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Microelectrodes	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Microfilament Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Microglia	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Microinjections	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Micrornas	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Microsatellite Repeats	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Microscopy	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0
+Microscopy, Atomic Force	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Microscopy, Confocal	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Microscopy, Electron	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Microscopy, Electron, Scanning	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Microscopy, Electron, Transmission	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Microscopy, Fluorescence	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Microscopy, Immunoelectron	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Microsomes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Microsomes, Liver	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Microspheres	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Microsurgery	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Microtubule-Associated Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Microtubules	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Microvilli	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Microwaves	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Middle Aged	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+Migraine Disorders	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Military Personnel	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Milk	1	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+Milk, Human	1	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+Minerals	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Minimally Invasive Surgical Procedures	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Mitochondria	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mitochondria, Liver	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mitochondrial Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mitogen-Activated Protein Kinase 1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mitogen-Activated Protein Kinase 3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mitogen-Activated Protein Kinases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mitosis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Mitral Valve	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mitral Valve Insufficiency	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mixed Function Oxygenases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Models, Anatomic	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+Models, Animal	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Models, Biological	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Models, Cardiovascular	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Models, Chemical	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Models, Genetic	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Models, Molecular	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Models, Neurological	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Models, Organizational	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Models, Psychological	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Models, Statistical	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Models, Theoretical	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Molar	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Molecular Chaperones	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Molecular Conformation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Molecular Dynamics Simulation	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0
+Molecular Sequence Data	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Molecular Structure	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Molecular Targeted Therapy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Molecular Weight	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Monitoring, Intraoperative	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Monitoring, Physiologic	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Monocytes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monte Carlo Method	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Mood Disorders	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Morbidity	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Morphine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Morphogenesis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Morpholines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mortality	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Mother-Child Relations	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Mothers	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0
+Motion	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Motion Perception	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Motivation	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Motor Activity	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Motor Cortex	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Motor Neurons	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Motor Skills	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Mouth	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mouth Mucosa	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mouth Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Movement	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Mucous Membrane	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multicenter Studies As Topic	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Multienzyme Complexes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multigene Family	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Multiple Myeloma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multiple Sclerosis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multiprotein Complexes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multivariate Analysis	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Muramidase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Muscle Contraction	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Muscle Fibers, Skeletal	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Muscle Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Muscle Relaxation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Muscle Strength	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Muscle, Skeletal	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Muscle, Smooth	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Muscle, Smooth, Vascular	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Muscles	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Muscular Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mutagenesis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Mutagenesis, Insertional	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Mutagenesis, Site-Directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Mutagenicity Tests	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Mutagens	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mutation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Mutation, Missense	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Mycobacterium Tuberculosis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mycoses	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Myelin Sheath	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Myocardial Contraction	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Myocardial Infarction	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Myocardial Ischemia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Myocardial Reperfusion Injury	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Myocardium	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Myocytes, Cardiac	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Myocytes, Smooth Muscle	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Myopia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Myosins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nad	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nadp	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nadph Oxidase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Naloxone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nanoparticles	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Nanostructures	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Nanotechnology	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+Naphthalenes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Narcotic Antagonists	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Narcotics	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nasal Mucosa	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nasopharyngeal Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+National Health Programs	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Neck	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Necrosis	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Needs Assessment	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+Neoadjuvant Therapy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Neoplasm Grading	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Neoplasm Invasiveness	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neoplasm Metastasis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neoplasm Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neoplasm Recurrence, Local	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neoplasm Staging	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Neoplasm Transplantation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neoplasms, Experimental	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Neoplasms, Multiple Primary	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neoplastic Stem Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neovascularization, Pathologic	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neovascularization, Physiologic	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Nephrectomy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Nerve Block	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Nerve Degeneration	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nerve Fibers	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nerve Growth Factors	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nerve Net	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nerve Regeneration	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Nerve Tissue Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nervous System	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nervous System Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Netherlands	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Neural Conduction	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Neural Inhibition	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Neural Networks (Computer)	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0
+Neural Pathways	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neuroblastoma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neurodegenerative Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neuroglia	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neurologic Examination	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Neuromuscular Junction	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neuronal Plasticity	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Neurons	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neurons, Afferent	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neuropeptides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neuroprotective Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neuropsychological Tests	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Neurosurgical Procedures	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Neurotoxins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neurotransmitter Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neutralization Tests	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Neutropenia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Neutrophils	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+New York	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+New York City	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+New Zealand	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Nf-Kappa B	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ng-Nitroarginine Methyl Ester	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nickel	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nicotine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nifedipine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nigeria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Nih 3T3 Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nitrates	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nitric Oxide	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nitric Oxide Synthase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nitric Oxide Synthase Type Ii	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nitric Oxide Synthase Type Iii	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nitriles	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nitrites	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nitrogen	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nitroprusside	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Noise	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Nonlinear Dynamics	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0
+Norepinephrine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Norway	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Nose	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nuclear Magnetic Resonance, Biomolecular	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Nuclear Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nucleic Acid Conformation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Nucleic Acid Hybridization	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Nucleotides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nurse'S Role	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+Nurse-Patient Relations	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+Nurses	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+Nursing Assessment	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Nursing Homes	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Nursing Methodology Research	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+Nursing Staff, Hospital	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+Nutritional Requirements	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Nutritional Status	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Obesity	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Obesity, Morbid	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Observer Variation	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Occupational Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Occupational Exposure	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Occupational Health	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Occupations	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Odds Ratio	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0
+Odorants	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Oligodeoxyribonucleotides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Oligonucleotide Array Sequence Analysis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Oligonucleotide Probes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Oligonucleotides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Oligonucleotides, Antisense	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Oligopeptides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Oligosaccharides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Oncogenes	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Ontario	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Oocytes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Open Reading Frames	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Operon	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Optics And Photonics	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+Orchiectomy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Organ Culture Techniques	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Organ Size	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Organ Specificity	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Organic Chemicals	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Organizational Innovation	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Organometallic Compounds	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Organophosphorus Compounds	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Orientation	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Orthopedic Procedures	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Oryza	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Osmolar Concentration	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Osteoarthritis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Osteoarthritis, Knee	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Osteoblasts	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Osteoclasts	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Osteogenesis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Osteoporosis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Osteosarcoma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Osteotomy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Ouabain	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Outcome And Process Assessment (Health Care)	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Outcome Assessment (Health Care)	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+Ovalbumin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ovarian Follicle	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ovarian Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ovariectomy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Ovary	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Overweight	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Ovulation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Ovum	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Oxidants	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Oxidation-Reduction	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Oxidative Stress	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Oxides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Oxidoreductases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Oxygen	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Oxygen Consumption	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Oxytocin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+P-Glycoprotein	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+P38 Mitogen-Activated Protein Kinases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pacemaker, Artificial	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Paclitaxel	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pain	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Pain Management	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Pain Measurement	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Pain Threshold	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Pain, Postoperative	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Palliative Care	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Pancreas	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pancreatic Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pancreatitis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Papillomaviridae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Papillomavirus Infections	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Parathyroid Hormone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Parent-Child Relations	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Parenting	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Parents	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0
+Parietal Lobe	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Parity	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Parkinson Disease	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Particle Size	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Patch-Clamp Techniques	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Patient Acceptance Of Health Care	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Patient Admission	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Patient Care Planning	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Patient Care Team	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Patient Compliance	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+Patient Discharge	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Patient Education As Topic	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+Patient Participation	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Patient Satisfaction	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Patient Selection	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Pattern Recognition, Automated	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Pattern Recognition, Visual	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Pc12 Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pediatrics	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Pedigree	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Peer Group	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Pelvis	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Penicillins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Penis	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Peptide Fragments	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Peptide Hydrolases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Peptide Mapping	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Peptides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Peptides, Cyclic	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Perception	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Perfusion	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Periodicity	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Periodontal Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Periodontitis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Peripheral Nerves	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Peripheral Nervous System Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Peritonitis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Permeability	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Peroxidase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Peroxidases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Personal Satisfaction	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Personality	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Personality Assessment	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Personality Disorders	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Personality Inventory	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Pesticides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phagocytosis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Phantoms, Imaging	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Pharmaceutical Preparations	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phenols	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phenotype	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Phenylalanine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phenylephrine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phonetics	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Phosphates	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phosphatidylcholines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phosphatidylinositol 3-Kinases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phosphatidylinositols	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phospholipases A	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phospholipids	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phosphoprotein Phosphatases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phosphoproteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phosphoric Monoester Hydrolases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phosphorus	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phosphorylation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Photic Stimulation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Photochemistry	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Photochemotherapy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Photography	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Photosensitizing Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Photosynthesis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Phylogeny	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0
+Physical Conditioning, Animal	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Physical Endurance	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0
+Physical Examination	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Physical Exertion	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Physical Fitness	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0
+Physical Stimulation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Physical Therapy Modalities	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Physician'S Role	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Physician-Patient Relations	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+Physicians	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+Phytotherapy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Pilot Projects	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Piperazines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Piperidines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pituitary Gland	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pituitary Gland, Anterior	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pituitary Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pituitary-Adrenal System	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Placebos	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+Placenta	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plant Diseases	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Plant Extracts	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plant Leaves	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plant Oils	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plant Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plant Roots	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plants	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plants, Genetically Modified	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plants, Medicinal	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasma	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Plasmids	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Plasmodium Falciparum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Platelet Aggregation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Platelet Aggregation Inhibitors	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Platelet Count	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Platelet-Derived Growth Factor	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pneumonectomy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Pneumonia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Poaceae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Point Mutation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Poland	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Politics	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Pollen	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Polychlorinated Biphenyls	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Polycyclic Aromatic Hydrocarbons	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Polyesters	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+Polyethylene Glycols	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+Polymerase Chain Reaction	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Polymers	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+Polymorphism, Genetic	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Polymorphism, Restriction Fragment Length	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Polymorphism, Single Nucleotide	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Polysaccharides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Polysaccharides, Bacterial	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Polysomnography	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Population Density	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Population Dynamics	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+Population Surveillance	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Porosity	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Portal Vein	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Positive-Pressure Respiration	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Positron-Emission Tomography	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Postmenopause	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Postoperative Care	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Postoperative Complications	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Postoperative Period	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Postpartum Period	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Postural Balance	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Posture	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Potassium	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Potassium Channels	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Potassium Chloride	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Poultry Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Poverty	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+Practice Guidelines As Topic	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Practice Patterns, Physicians'	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Pre-Eclampsia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Precancerous Conditions	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Precipitin Tests	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Predictive Value Of Tests	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Prednisolone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Prednisone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Prefrontal Cortex	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pregnancy	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Pregnancy Complications	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pregnancy Complications, Infectious	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pregnancy Outcome	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Pregnancy Trimester, First	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Pregnancy Trimester, Second	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Pregnancy Trimester, Third	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Pregnancy, Animal	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Prejudice	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Prenatal Care	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Prenatal Diagnosis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Prenatal Exposure Delayed Effects	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Preoperative Care	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Pressure	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Prevalence	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Primary Health Care	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Principal Component Analysis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Probability	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0
+Probiotics	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+Problem Solving	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Professional Competence	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Professional-Patient Relations	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+Progesterone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Prognosis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Program Development	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Program Evaluation	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Prolactin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Proliferating Cell Nuclear Antigen	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Proline	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Promoter Regions, Genetic	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Propofol	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Proportional Hazards Models	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Propranolol	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Prospective Studies	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Prostaglandin-Endoperoxide Synthases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Prostaglandins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Prostaglandins E	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Prostate	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Prostate-Specific Antigen	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Prostatectomy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Prostatic Hyperplasia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Prostatic Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Prostheses And Implants	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Prosthesis Design	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Prosthesis Failure	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Protease Inhibitors	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Proteasome Endopeptidase Complex	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Protein Binding	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Protein Biosynthesis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Protein Conformation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Protein Denaturation	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Protein Engineering	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Protein Folding	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Protein Interaction Mapping	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Protein Isoforms	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Protein Kinase C	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Protein Kinase Inhibitors	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Protein Kinases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Protein Multimerization	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Protein Precursors	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Protein Processing, Post-Translational	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Protein Structure, Quaternary	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Protein Structure, Secondary	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Protein Structure, Tertiary	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Protein Subunits	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Protein Transport	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Protein-Serine-Threonine Kinases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Protein-Tyrosine Kinases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Proteinuria	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Proteoglycans	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Proteome	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Proteomics	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Proto-Oncogene Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Proto-Oncogene Proteins C-Akt	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Proto-Oncogene Proteins C-Bcl-2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Proto-Oncogene Proteins C-Fos	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Protons	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+Protozoan Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pseudomonas	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pseudomonas Aeruginosa	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pseudomonas Infections	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Psoriasis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Psychiatric Status Rating Scales	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Psychiatry	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0
+Psychological Tests	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Psychometrics	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Psychomotor Performance	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Psychophysics	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+Psychotherapy	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Psychotic Disorders	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Psychotropic Drugs	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Public Health	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+Public Policy	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+Pulmonary Alveoli	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pulmonary Artery	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pulmonary Circulation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Pulmonary Disease, Chronic Obstructive	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pulmonary Embolism	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pulmonary Fibrosis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Purines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pyrazoles	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pyridines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pyrimidines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pyrroles	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Qualitative Research	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Quality Assurance, Health Care	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Quality Control	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Quality Of Health Care	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Quality Of Life	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0
+Quantitative Trait Loci	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Quantum Theory	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Quaternary Ammonium Compounds	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Quinazolines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Quinolines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rabbits	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Radiation Dosage	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0
+Radiation Injuries	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Radiation Tolerance	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Radiographic Image Enhancement	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0
+Radiographic Image Interpretation, Computer-Assisted	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0
+Radiography	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Radiography, Thoracic	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Radioimmunoassay	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Radioisotopes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Radioligand Assay	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Radiometry	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Radionuclide Imaging	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Radiopharmaceuticals	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Radiotherapy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Radiotherapy Dosage	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Radiotherapy Planning, Computer-Assisted	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0
+Radiotherapy, Adjuvant	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Random Allocation	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Randomized Controlled Trials As Topic	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Range Of Motion, Articular	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Ras Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rats	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Rats, Inbred F344	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rats, Inbred Lew	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rats, Inbred Shr	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rats, Inbred Strains	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rats, Inbred Wky	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rats, Long-Evans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rats, Sprague-Dawley	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rats, Wistar	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reaction Time	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0
+Reactive Oxygen Species	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reading	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Reagent Kits, Diagnostic	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+Real-Time Polymerase Chain Reaction	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Receptor Protein-Tyrosine Kinases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptor, Epidermal Growth Factor	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptor, Erbb-2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Adrenergic, Beta	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Androgen	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Antigen, T-Cell	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Cell Surface	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Cytoplasmic And Nuclear	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Dopamine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Dopamine D2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Estrogen	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, G-Protein-Coupled	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Gaba-A	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Glucocorticoid	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Immunologic	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Interleukin-2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Muscarinic	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, N-Methyl-D-Aspartate	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Nicotinic	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Opioid	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Progesterone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Serotonin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Receptors, Tumor Necrosis Factor	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Recognition (Psychology)	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Recombinant Fusion Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Recombinant Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Recombination, Genetic	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Reconstructive Surgical Procedures	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Recovery Of Function	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Rectal Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rectum	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Recurrence	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reference Standards	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Reference Values	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Referral And Consultation	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Reflex	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0
+Regeneration	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Regional Blood Flow	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Registries	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Regression Analysis	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Regulatory Sequences, Nucleic Acid	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Remission Induction	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Renal Circulation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Renal Dialysis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Renin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Renin-Angiotensin System	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Reoperation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Reperfusion Injury	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Repetitive Sequences, Nucleic Acid	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Repressor Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reproducibility Of Results	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Reproduction	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Republic Of Korea	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Research	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Research Design	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0
+Residence Characteristics	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Respiration	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Respiration, Artificial	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Respiratory Distress Syndrome, Adult	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Respiratory Function Tests	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Respiratory Insufficiency	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Respiratory Mechanics	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Respiratory Tract Infections	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rest	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Restriction Mapping	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Resuscitation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Retina	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Retinal Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Retinal Ganglion Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Retrospective Studies	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Retroviridae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reverse Transcriptase Polymerase Chain Reaction	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Reward	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Rheology	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0
+Ribonucleases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ribosomal Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ribosomes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rifampin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Risk	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0
+Risk Assessment	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Risk Factors	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Risk-Taking	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Rivers	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Rna	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rna Interference	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Rna Splicing	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Rna, Bacterial	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rna, Messenger	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rna, Neoplasm	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rna, Ribosomal	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rna, Ribosomal, 16S	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rna, Small Interfering	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rna, Transfer	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rna, Viral	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rna-Binding Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Robotics	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0
+Roc Curve	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Rotation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Running	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0
+Rupture	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rupture, Spontaneous	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rural Health	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Rural Population	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Russia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Saccharomyces Cerevisiae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Saccharomyces Cerevisiae Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Safety	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Saliva	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Salmonella	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Salmonella Typhimurium	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sampling Studies	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Sarcoma	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sarcoplasmic Reticulum	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Scattering, Radiation	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Schizophrenia	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Schizophrenic Psychology	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Schools	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+Sciatic Nerve	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Scleroderma, Systemic	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Scotland	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Seasons	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Seawater	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Secondary Prevention	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Seeds	1	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+Seizures	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Selection, Genetic	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Selenium	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Self Care	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Self Concept	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Self Efficacy	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Self Report	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Semantics	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Semen	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sensitivity And Specificity	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0
+Sensory Thresholds	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Sepsis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sequence Alignment	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Sequence Analysis, Dna	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Sequence Analysis, Protein	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Sequence Deletion	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Sequence Homology, Amino Acid	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Sequence Homology, Nucleic Acid	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Serine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Serine Endopeptidases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seroepidemiologic Studies	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Serotonin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Serotonin Antagonists	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Serotonin Uptake Inhibitors	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Serotyping	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Serum Albumin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Serum Albumin, Bovine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sesquiterpenes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Severity Of Illness Index	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Sewage	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sex Characteristics	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Sex Distribution	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+Sex Factors	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Sexual Behavior	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Sexual Behavior, Animal	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Sexual Partners	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Sexually Transmitted Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sheep	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sheep Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Shock, Septic	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Shoulder Joint	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Signal Processing, Computer-Assisted	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Signal Transduction	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Silicon Dioxide	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Silver	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Simplexvirus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Single-Blind Method	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Sirolimus	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Skin	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Skin Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Skin Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Skin Tests	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Skin Transplantation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Skull	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sleep	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Sleep Apnea, Obstructive	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sleep Wake Disorders	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Smell	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Smoking	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Smoking Cessation	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Social Adjustment	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Social Behavior	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Social Class	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+Social Environment	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Social Perception	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Social Support	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Societies, Medical	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Socioeconomic Factors	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+Sodium	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sodium Channels	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sodium Chloride	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sodium-Potassium-Exchanging Atpase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Soft Tissue Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Software	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Soil	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0
+Soil Microbiology	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+Soil Pollutants	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Solubility	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Solutions	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Solvents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Somatosensory Cortex	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Somatostatin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+South Africa	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Soybeans	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Space Perception	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Spain	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Species Specificity	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Specimen Handling	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Spectrometry, Fluorescence	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Spectrometry, Mass, Electrospray Ionization	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Spectrophotometry	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Spectrophotometry, Atomic	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Spectrophotometry, Infrared	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Spectrophotometry, Ultraviolet	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Spectroscopy, Fourier Transform Infrared	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Spectrum Analysis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Spectrum Analysis, Raman	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Speech	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0
+Speech Perception	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Sperm Motility	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Spermatogenesis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Spermatozoa	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spinal Cord	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spinal Cord Injuries	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spinal Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spinal Fusion	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Spine	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Spirometry	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Spleen	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Splenectomy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Sports	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Sputum	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Staining And Labeling	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Staphylococcal Infections	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Staphylococcus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Staphylococcus Aureus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Starch	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stat3 Transcription Factor	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+State Medicine	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Static Electricity	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Statistics As Topic	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0
+Statistics, Nonparametric	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Stem Cell Transplantation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Stem Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stents	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Stereoisomerism	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Steroids	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stimulation, Chemical	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Stochastic Processes	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0
+Stomach	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stomach Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stomach Ulcer	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Streptococcal Infections	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Streptococcus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Streptococcus Pneumoniae	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Streptomyces	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stress Disorders, Post-Traumatic	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Stress, Mechanical	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Stress, Physiological	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Stress, Psychological	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Stroke	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stroke Volume	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Stromal Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Structure-Activity Relationship	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Students	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Students, Medical	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Subarachnoid Hemorrhage	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Subcellular Fractions	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Substance Abuse, Intravenous	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Substance P	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Substance Withdrawal Syndrome	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Substance-Related Disorders	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Substantia Nigra	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Substrate Specificity	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Sucrose	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Suicide	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0
+Suicide, Attempted	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0
+Sulfates	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sulfhydryl Compounds	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sulfonamides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sulfones	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Superoxide Dismutase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Superoxides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Surface Plasmon Resonance	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Surface Properties	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Surface-Active Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Surgery, Computer-Assisted	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0
+Surgical Flaps	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Surgical Procedures, Operative	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Surgical Wound Infection	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Surveys And Questionnaires	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Survival Analysis	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Survival Rate	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+Survivors	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Suture Techniques	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Sweden	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Swimming	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0
+Swine	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Swine Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Switzerland	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Symbiosis	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Sympathetic Nervous System	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Synapses	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Synaptic Transmission	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Syndrome	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Synovial Membrane	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Systole	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+T-Lymphocyte Subsets	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+T-Lymphocytes	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+T-Lymphocytes, Cytotoxic	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+T-Lymphocytes, Helper-Inducer	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+T-Lymphocytes, Regulatory	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tablets	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tacrolimus	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Taiwan	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Tamoxifen	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tandem Mass Spectrometry	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Task Performance And Analysis	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Taste	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Teaching	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Technetium	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Technology, Pharmaceutical	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+Telemedicine	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0
+Telomerase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Telomere	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Temperature	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Temporal Lobe	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tendons	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tensile Strength	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Terminal Care	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Terminology As Topic	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Terpenes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Testicular Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Testis	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Testosterone	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tetradecanoylphorbol Acetate	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tetrodotoxin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Texas	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Th1 Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Th2 Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thailand	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Thalamus	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Theophylline	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Therapeutic Irrigation	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Thermodynamics	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Thiazoles	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thiophenes	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thoracic Vertebrae	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thrombin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thrombocytopenia	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thromboembolism	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thrombolytic Therapy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Thrombosis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thymidine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thymus Gland	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thyroid Gland	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thyroid Hormones	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thyroid Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thyroidectomy	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Thyrotropin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thyroxine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tibia	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Time Factors	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Tissue Distribution	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Tissue Donors	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Tissue Engineering	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+Tissue Plasminogen Activator	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tissue Scaffolds	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Titanium	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tobacco	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tomography, Emission-Computed	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Tomography, Emission-Computed, Single-Photon	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Tomography, Optical Coherence	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Tomography, X-Ray Computed	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Tongue	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tor Serine-Threonine Kinases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Touch	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Toxicity Tests	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Trachea	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Trans-Activators	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Transcription Factors	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Transcription, Genetic	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Transcriptional Activation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Transcriptome	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Transducers	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Transduction, Genetic	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Transfection	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Transferrin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Transformation, Genetic	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Transforming Growth Factor Beta	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Transforming Growth Factor Beta1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Transgenes	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Translocation, Genetic	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Transplantation, Autologous	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Transplantation, Heterologous	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Transplantation, Homologous	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Travel	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Treatment Failure	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Treatment Outcome	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Trees	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tretinoin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Triazines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Triazoles	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Triglycerides	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Triiodothyronine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Triticum	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tritium	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Trypsin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tryptophan	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tuberculosis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tuberculosis, Pulmonary	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tubulin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tumor Burden	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Tumor Cells, Cultured	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tumor Necrosis Factor-Alpha	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tumor Suppressor Protein P53	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tumor Suppressor Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tumor Virus Infections	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Turkey	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Two-Hybrid System Techniques	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Type C Phospholipases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tyrosine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tyrosine 3-Monooxygenase	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ubiquitin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ubiquitin-Protein Ligases	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ultrasonics	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Ultrasonography	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Ultrasonography, Doppler	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Ultrasonography, Doppler, Color	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Ultrasonography, Interventional	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Ultrasonography, Prenatal	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Ultraviolet Rays	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Umbilical Veins	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+United Kingdom	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+United States	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Universities	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+Up-Regulation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Urban Health	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Urban Population	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Urea	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ureter	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Urethra	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Uric Acid	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Urinary Bladder	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Urinary Bladder Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Urinary Incontinence	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Urinary Tract Infections	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Urine	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Urodynamics	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+User-Computer Interface	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Uterine Cervical Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Uterine Neoplasms	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Uterus	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vaccination	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Vacuoles	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vagina	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vaginal Smears	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Vagus Nerve	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vascular Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vascular Endothelial Growth Factor A	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vascular Patency	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Vascular Resistance	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Vascular Surgical Procedures	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Vasoconstriction	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Vasoconstrictor Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vasodilation	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Vasodilator Agents	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vasopressins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vegetables	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+Veins	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Venous Thrombosis	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ventricular Dysfunction, Left	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ventricular Function, Left	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Verapamil	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Verbal Behavior	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Vero Cells	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vibration	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Video Recording	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Vincristine	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Violence	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Viral Envelope Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Viral Load	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Viral Proteins	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Viral Vaccines	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Virion	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Virulence	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Virulence Factors	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Virus Diseases	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Virus Replication	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Viscosity	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Vision Disorders	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vision, Ocular	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Visual Acuity	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0
+Visual Cortex	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Visual Fields	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Visual Pathways	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Visual Perception	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Vital Capacity	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+Vitamin A	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vitamin D	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vitamin E	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vitamins	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0
+Vitreous Body	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vomiting	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wakefulness	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+Walking	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0
+Warfarin	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Waste Disposal, Fluid	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Water	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Water Microbiology	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+Water Pollutants	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Water Pollutants, Chemical	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Water Purification	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Water Supply	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Water-Electrolyte Balance	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Weight Gain	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Weight Loss	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Weight-Bearing	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Women'S Health	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Workload	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Workplace	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+World Health Organization	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Wound Healing	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Wounds And Injuries	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Wounds, Nonpenetrating	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+X Chromosome	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+X-Ray Diffraction	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+X-Rays	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Xenograft Model Antitumor Assays	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Xenopus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Xenopus Laevis	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Yeasts	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Young Adult	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+Zea Mays	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zebrafish	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zinc	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0

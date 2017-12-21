@@ -1,0 +1,11 @@
+term	support	DBOW	DMm	CNN
+Treatment Outcome	131585	0.288	0.273	0.422
+Retrospective Studies	112052	0.325	0.288	0.703
+Risk Factors	109942	0.277	0.281	0.501
+Follow-Up Studies	92767	0.200	0.195	0.352
+Prospective Studies	80495	0.197	0.166	0.642
+Surveys And Questionnaires	65081	0.293	0.278	0.514
+Reproducibility Of Results	59860	0.215	0.191	0.349
+Sensitivity And Specificity	56584	0.205	0.201	0.354
+Age Factors	55759	0.109	0.124	0.219
+Cross-Sectional Studies	42302	0.244	0.183	0.640

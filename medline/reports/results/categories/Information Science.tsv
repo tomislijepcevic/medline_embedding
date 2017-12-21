@@ -1,0 +1,11 @@
+term	support	DBOW	DMm	CNN
+Molecular Sequence Data	122899	0.437	0.356	0.598
+Amino Acid Sequence	82792	0.414	0.338	0.613
+Base Sequence	78955	0.374	0.295	0.537
+Surveys And Questionnaires	65081	0.293	0.278	0.514
+Prevalence	40316	0.199	0.191	0.498
+Algorithms	38568	0.316	0.272	0.510
+Incidence	35215	0.147	0.141	0.367
+Severity Of Illness Index	35013	0.101	0.106	0.206
+Computer Simulation	30830	0.208	0.190	0.369
+Phylogeny	29987	0.454	0.360	0.690

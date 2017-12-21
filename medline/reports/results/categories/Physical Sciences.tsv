@@ -1,0 +1,11 @@
+term	support	DBOW	DMm	CNN
+Immunohistochemistry	50751	0.249	0.224	0.410
+Electrophysiology	11282	0.105	0.098	0.159
+Research Design	10758	0.076	0.073	0.184
+Computational Biology	9631	0.138	0.118	0.247
+Outcome Assessment (Health Care)	9271	0.044	0.049	0.117
+Mathematics	8948	0.045	0.044	0.140
+Statistics As Topic	8893	0.013	0.014	0.032
+Drug Design	7544	0.112	0.082	0.289
+Evidence-Based Medicine	7523	0.058	0.057	0.256
+Histocytochemistry	7492	0.076	0.071	0.225

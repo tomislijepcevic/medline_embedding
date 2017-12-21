@@ -1,0 +1,11 @@
+term	support	DBOW	DMm	CNN
+Disease Models, Animal	46820	0.150	0.187	0.383
+Postoperative Complications	42432	0.192	0.178	0.348
+Neoplasms	36961	0.099	0.132	0.601
+Breast Neoplasms	35296	0.382	0.439	0.898
+Chronic Disease	30157	0.076	0.087	0.399
+Hypertension	26305	0.349	0.405	0.765
+Body Weight	25779	0.154	0.153	0.316
+Lung Neoplasms	25670	0.252	0.285	0.814
+Acute Disease	24715	0.084	0.089	0.380
+Recurrence	23890	0.101	0.121	0.346
